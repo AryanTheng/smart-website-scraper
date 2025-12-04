@@ -32,7 +32,7 @@ openpyxl
 ### 2. Run the scraper
 
 ```
-python scraper.py
+python script.py
 ```
 
 After running successfully, the script generates:
